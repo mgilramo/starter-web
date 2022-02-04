@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manuel Gil	manuel.gilramos@nttdata.com	@IchManch
 
 # THANKS
 
