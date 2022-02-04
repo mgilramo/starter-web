@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Manuel Gil	manuel.gilramos@nttdata.com	@IchManch
+    Manuel Gil	manuel.gilramos@nttdata.com
 
 # THANKS
 
