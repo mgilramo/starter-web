@@ -1,2 +1,3 @@
 untracked-system-file.txt
 log/
+*.orig
