@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2020 Manuel.Trainig - All rights reserved
+2020 Manuel.Training. All rights reserved.
